@@ -2,7 +2,7 @@
 
 #### From zero to 50 in 30 days
 
-That's the goal of this guide, to get you to level 50 within the first 30 days of play. You've probably finished the initial tutorial where you learned how to build and merge arsenals, build and merge senki, and battle for land. You're going to be doing a lot of these activities, but if you're looking for growth and advancement, you will need a focused plan, not randomly poking around your gakuen hoping to stumble into the next level.
+That's the goal of this guide, to get you to level 50 within the first 30 days of play. You should have finished the initial tutorial where you learned how to build and merge arsenals, build and merge senki, and battle for land. You will be doing a lot of these activities, but if you're looking for growth and advancement, you need a focused plan, not just randomly poking around your gakuen hoping to stumble into the next level.
 
 The way you progress through the levels is by gaining _experience points_, and there are 3 main activities that gain you experience points:
 
