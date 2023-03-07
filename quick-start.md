@@ -15,8 +15,7 @@ Before we get too far, let's address the elephant in the room: money. The ZGirl3
 - _You don't need to buy anything to quickly advance through the levels._
 - Most of the 'payables' are trash and don't provide any great value. We'll discuss more about the best way to spend your money in the addendum.
 
-Let's look at how each of these work, then we'll make a plan to work through the levels.
-
+Now, let's look at how each of 3 main activites work, then we'll make a plan to work through the levels.
 ## Research
 
 The fastest way to gain experience points is by doing "research" in the Teaching Building. Research allows you to create greater level senki and arsenals, and merge your senki and arsenals to an even greater level. Let's go through the materials you will need for research and how to obtain them.
