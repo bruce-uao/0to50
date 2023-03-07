@@ -111,7 +111,7 @@ The introductory tutorial covered how to acquire land. You will need to acquire 
 - An amount of zcoin
 - Senki and ZGirls strong enough to defeat enemy senki
 
-Whenever you can, take as much land/water space you can.
+Whenever possible, take as much land/water space you can.
 
 #### Gathering Resources (oil and steel)
 
