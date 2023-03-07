@@ -75,7 +75,7 @@ In my opinion, the best way to gather zcoin is to have no more than 10 convenien
 
 You can also get zcoin from the Dimensional Mines. 
 
-A final place to find zcoin is from resource collecting in the world, but in my experience resource collecting zcoin is a waste of effort that is better spent collecting oil and steel. (More on that later.)
+Another place to find zcoin is from resource collecting in the world, but in my experience resource collecting zcoin is a waste of effort that is better spent collecting oil and steel. (More on that later.)
 
 ### Process
 
