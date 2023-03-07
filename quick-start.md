@@ -41,7 +41,7 @@ There are unique build tools for Army, Navy, & Air Force arsenals and for conven
 - the dimensional mines,
 - and tech chests.
 
-#### Upgrade modules (also for Army, Navy, & Air Force arsenals and convenience stores)
+#### Upgrade modules (for Army, Navy, & Air Force arsenals and convenience stores)
 
 There are also unique upgrade modules for Army, Navy, & Air Force arsenals and for convenience stores. Researching with these modules will increase the level to which you can merge your arsenals and convenience stores. You can find upgrade modules:
 
